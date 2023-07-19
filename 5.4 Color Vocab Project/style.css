@@ -1,0 +1,39 @@
+*{
+    background-color: black;
+    text-align: center;
+}
+h1{
+    font-style: oblique;
+    color: white;
+}
+h2{
+    color: white;
+}
+#red{
+    font-style: italic;
+    color: red;
+}
+#blue{
+    font-style: italic;
+    color: #2596be;
+}
+#orange{
+    font-style: italic;
+    color: orange;
+}
+#green{
+    font-style: italic;
+    color: green;
+}
+#yellow{
+    font-style: italic;
+    color: yellow
+}
+.color-title{
+    font-style: italic;
+    font-weight: normal;
+}
+img{
+height: 200px;
+width: 200px;
+}
